@@ -1,2 +1,2 @@
-# techbliog
+# techblog
 first project
